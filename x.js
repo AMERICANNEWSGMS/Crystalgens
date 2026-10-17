@@ -13,7 +13,7 @@
                 {
                     "text": "Join Discord",
                     "icon": "fab fa-discord",
-                    "link": "https://discord.com/demo",
+                    "link": "http://dsc.gg/crystalgens",
                     "target": "_blank"
                 },
                 {
@@ -25,49 +25,16 @@
                 {
                     "text": "Shop",
                     "icon": "fas fa-shopping-cart",
-                    "link": "https://shop.demo.com",
+                    "link": "https://store.crystalgens.xyz",
                     "target": "_blank"
                 }
             ],
             "hero": {
                 "title": "Conquer the Frozen Realm",
-                "subtitle": "Step into a world where survival meets legend. Face brutal winters, forge alliances, and become the ultimate frost warrior in the most challenging Minecraft experience ever created.",
+                "subtitle": "Conquere all the bosses ahead of you ",
                 "cta_text": "Begin Your Journey",
                 "cta_icon": "fas fa-play"
-            },
-            "features_title": "Legendary Features",
-            "features_subtitle": "Experience cutting-edge gameplay mechanics and features that will redefine your Minecraft adventure",
-            "features": [
-                {
-                    "icon": "fas fa-snowflake",
-                    "title": "Extreme Weather Systems",
-                    "description": "Face dynamic blizzards, temperature mechanics, and seasonal changes that affect gameplay, crafting, and survival strategies."
-                },
-                {
-                    "icon": "fas fa-fire",
-                    "title": "Competitive PvP Arenas",
-                    "description": "Engage in skill-based combat with custom weapons, armor enchantments, and ranked tournaments in our ice-themed battle arenas."
-                },
-                {
-                    "icon": "fas fa-mountain",
-                    "title": "Massive Custom Worlds",
-                    "description": "Explore hand-crafted frozen landscapes with hidden dungeons, ancient ruins, and secrets waiting to be discovered."
-                },
-                {
-                    "icon": "fas fa-users",
-                    "title": "Guild Warfare",
-                    "description": "Form powerful alliances, build mighty fortresses, and wage epic wars for territory control in our persistent world."
-                },
-                {
-                    "icon": "fas fa-gem",
-                    "title": "Unique Progression",
-                    "description": "Unlock exclusive abilities, rare materials, and legendary items through our innovative skill tree and achievement system."
-                },
-                {
-                    "icon": "fas fa-rocket",
-                    "title": "Regular Updates",
-                    "description": "Experience fresh content monthly with new features, events, and gameplay mechanics developed by our dedicated team."
-                }
+            }
             ],
             "final_cta": {
                 "title": "What Are You Waiting For?",
